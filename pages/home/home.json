@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "学生日常通行码",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-file-picker": "/uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker"
+  }
+}
