@@ -73,4 +73,16 @@
   height: 100px;
   width: 100%;
 }
+.detail-box .detail {
+  padding-top: 10px;
+  padding-left: 10px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.detail-box .detail text {
+  font-size: 20px;
+  color: #616266;
+  font-weight: bold;
+}
 

@@ -3,6 +3,7 @@
   "navigationBarBackgroundColor": "#007AFF",
   "navigationBarTextStyle": "white",
   "usingComponents": {
+    "uni-fab": "/uni_modules/uni-fab/components/uni-fab/uni-fab",
     "uni-file-picker": "/uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker"
   }
 }
